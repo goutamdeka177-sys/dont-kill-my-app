@@ -1,3 +1,4 @@
+<img width="1640" height="720" alt="6653" src="https://github.com/user-attachments/assets/5fd852d0-b53f-4e71-aba6-bbb2772020d7" />
 ---
 manufacturer: samsung
 
